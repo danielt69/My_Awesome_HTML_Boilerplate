@@ -1,8 +1,8 @@
 # My Awesome HTML5 Boilerplate!
 
-### What is it?
-
 ![This is Awesome!](https://raw.githubusercontent.com/danielt69/My_Awesome_HTML_Boilerplate/master/img/wow.gif)  
+
+### What is it?
 
 It is a HTML5 boilerplate (Starter Template) including:
 
