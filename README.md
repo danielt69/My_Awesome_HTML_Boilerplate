@@ -7,15 +7,15 @@
 It is a HTML5 boilerplate (Starter Template) including:
 
   - Bourbon v4.2.6
-  - Jquery v2.2.2
+  - Jquery v3.0
   - Bootstrap v3.3.6
   - Outdated_Browser v1.1.3
-  - Font_Awesome v4.5.0
+  - Font_Awesome v4.6.3
   - Google Analytics
 
 
 ### Version
-1.0.0
+1.0.1
 
 ### Installation
 
