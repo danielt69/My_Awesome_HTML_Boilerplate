@@ -6,7 +6,7 @@
 
 It is a HTML5 boilerplate (Starter Template) including:
 
-  - Bourbon v4.2.6
+  - Bourbon v4.2.7
   - Jquery v3.0
   - Bootstrap v3.3.6
   - Outdated_Browser v1.1.3
